@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL@localhost" uuid="b4f7c5c9-40af-4c5a-bd6c-fc23b1ea2ec6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/handicrafts</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="UTC" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="Firebird" uuid="489219c9-da1a-4fdc-bc52-f1ae3e312e67">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.firebirdsql.jdbc.FBDriver</jdbc-driver>
+      <jdbc-url>jdbc:firebirdsql:localhost/3050:D:\Temp\firebird.fdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
